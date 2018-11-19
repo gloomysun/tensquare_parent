@@ -1,0 +1,11 @@
+server:
+  port: 9009
+spring:
+  rabbitmq:
+    addresses: 192.168.0.100
+aliyun:
+  sms:
+    accessKeyId: LTAIFIRjNSxiLZf8
+    accessKeySecret: KRMLFArWoojj1wnj3K8xYuv1aKHiWH
+    template_code: SMS_142388887
+    sign_name: PVTT

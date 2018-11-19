@@ -1,0 +1,4 @@
+hbase:
+  config:
+    hbase.zookeeper.quorum: vm1,vm2,vm3
+    hbase.zookeeper.property.clientPort: 2181
